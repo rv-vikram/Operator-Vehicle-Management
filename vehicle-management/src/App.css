@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+body{
+  margin:0px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #DBD0C0;
+}
+
+button,
+input,
+select{
+  font-family: 'Montserrat', sans-serif;
+
+  outline: none;
+  border: none;
+}
+
